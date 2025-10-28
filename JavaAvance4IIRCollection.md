@@ -5,6 +5,7 @@
 *Destiné aux étudiants de 4 IIR - EMSI Casablanca*
 
 Fait par Ilyas Ait maina
+<img src="ilyas.jpg" style="height:464px;margin-right:432px"/>
 
 ## Introduction
 
@@ -423,6 +424,13 @@ public class Personne implements Comparable<Personne> {
         }
     }
 }
+\\affichage: Alice (30 ans)
+             Bob (25 ans)
+             Claire (28 ans)
+\\  TreeSet est utilisé ici pour stocker les objets Personne dans un ordre trié automatiquement
+(selon le nom, défini par compareTo). Il empêche également les doublons selon le critère de comparaison.
+ Cela permet d'avoir une collection d'éléments uniques et toujours triés sans avoir à trier manuellement.
+
 ```
 
 
@@ -824,6 +832,7 @@ Ce document est prêt à être diffusé, imprimé, ou converti en PDF pour votre
 
 
 ![](collection.jpg)
+
 
 
 
