@@ -216,6 +216,8 @@ class GestionTaches {
         gt.afficherTaches();
     }
 }
+\\Ici, `LinkedList` est utilisée pour stocker les tâches, car elle permet d’ajouter rapidement des tâches à la fin et de marquer efficacement la première tâche comme terminée. Elle est idéale pour les opérations fréquentes en début ou fin de liste sans décaler les autres éléments.
+
 ```
 
 
@@ -814,6 +816,7 @@ Ce document est prêt à être diffusé, imprimé, ou converti en PDF pour votre
 
 
 ![](collection.jpg)
+
 
 
 
