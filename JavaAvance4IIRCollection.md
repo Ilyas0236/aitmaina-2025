@@ -323,6 +323,10 @@ class GestionEtudiants {
         ge.afficherEtudiants();
     }
 }
+\\affichage Etudiant{nom='Sara', numero=102}
+            Etudiant{nom='Ali', numero=101}
+\\Même si on écrit new Etudiant("Ali", 101) deux fois, Java considère que c’est le même étudiant grâce à equals() et hashCode(). HashSet empêche donc les doublons.
+
 ```
 
 
@@ -816,6 +820,7 @@ Ce document est prêt à être diffusé, imprimé, ou converti en PDF pour votre
 
 
 ![](collection.jpg)
+
 
 
 
