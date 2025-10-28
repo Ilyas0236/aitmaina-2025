@@ -531,6 +531,12 @@ public class ExemplePriorityQueue {
         }
     }
 }
+\\Affichage:10
+            20
+            30
+\\ PriorityQueue est utilisée pour gérer des éléments selon leur priorité (ici, ordre croissant).
+ Elle permet d'accéder rapidement à l'élément le plus prioritaire sans trier toute la collection.
+
 ```
 
 
@@ -832,6 +838,7 @@ Ce document est prêt à être diffusé, imprimé, ou converti en PDF pour votre
 
 
 ![](collection.jpg)
+
 
 
 
