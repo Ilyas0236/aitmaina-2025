@@ -358,6 +358,10 @@ public class ExempleLinkedHashSet {
         }
     }
 }
+\\ affichage: Ali
+             Sara
+\\ linkedHashSet garantit l'ordre d'insertion
+
 ```
 
 
@@ -820,6 +824,7 @@ Ce document est prêt à être diffusé, imprimé, ou converti en PDF pour votre
 
 
 ![](collection.jpg)
+
 
 
 
