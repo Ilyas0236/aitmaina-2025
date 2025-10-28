@@ -136,6 +136,8 @@ class GestionBibliotheque {
         gb.afficherLivres();
     }
 }
+\\ Ajout d'un attribut "bibliotheque" dans la classe Livre pour créer  une relation entre Livre et GestionBibliotheque.
+  Modification du constructeur de Livre pour accepter une référence à une GestionBibliotheque et ajouter automatiquement le livre à cette bibliothèque.
 ```
 
 
@@ -812,6 +814,7 @@ Ce document est prêt à être diffusé, imprimé, ou converti en PDF pour votre
 
 
 ![](collection.jpg)
+
 
 
 
